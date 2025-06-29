@@ -56,5 +56,7 @@ Sample Output (On Synthetic Data)
     accuracy                           0.99       210
 About Me:
 I'm Aishwarya Kotagiri, currently exploring AI/ML and solving real-world problems with code. 
+
+contact me:
 email : aishwaryakotagiri1902@gmail.com
 linkedin : www.linkedin.com/in/aishwaryakotagiri1902
