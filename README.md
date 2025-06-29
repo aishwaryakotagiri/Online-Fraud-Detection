@@ -32,7 +32,7 @@ You’ll see:
 2. A heatmap of the confusion matrix 📊
 
 Tech Stack:
-1. Python 🐍
+1. Python 
 
 2. Pandas & NumPy
 
@@ -56,3 +56,5 @@ Sample Output (On Synthetic Data)
     accuracy                           0.99       210
 About Me:
 I'm Aishwarya Kotagiri, currently exploring AI/ML and solving real-world problems with code. 
+email : aishwaryakotagiri1902@gmail.com
+linkedin : www.linkedin.com/in/aishwaryakotagiri1902
